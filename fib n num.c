@@ -8,6 +8,6 @@ c1=a1+b1;
 a1=b1;
 b1=c1;
 printf("%d",c1);
-n=n-2;
+
 return 0;
 }
